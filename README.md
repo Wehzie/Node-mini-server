@@ -1,4 +1,4 @@
-# nodeStaticHTML without frameworks
+# Node-mini-server without frameworks
 
 The motivation for choosing an approach without framework was to develop an understanding for JavaScript and Node as they are.
 I was especially determined to avoid https://www.npmjs.com/package/express.
